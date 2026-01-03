@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aathil Ahamed A</h1>
-<h3 align="center">A passionate AI/ML Developer  | Full Stack Developer </h3>
+<h3 align="center">A passionate AI/ML Aspirant  | Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **AI mini Projects**
 
