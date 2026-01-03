@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aathil Ahamed A</h1>
-<h3 align="center">A passionate AI/ML developer</h3>
+<h3 align="center">A passionate AI/ML Developer  | Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **AI mini Projects**
 
 - 🌱 I’m currently learning **Python, Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects, AI-based web apps, and open-source contributions**
+- 👯 I’m looking to collaborate on **Machine learning projects, AI-based web apps, full stack projects, and open-source contributions**
 
 - 🤝 I’m looking for help with **Deep learning concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aathilahamed1](https://github.com/aathilahamed1)
 
-- 💬 Ask me about **AI/ML, Python, model building, problem solving**
+- 💬 Ask me about **AI/ML, Python, model building, and full stack development**
 
 - 📫 How to reach me **aathilerode@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning ideas into intelligent systems that actually work**
+- ⚡ Fun fact **I enjoy turning ideas into intelligent systems and scalable web applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
