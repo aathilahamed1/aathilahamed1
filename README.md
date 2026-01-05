@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects, AI-based web apps, full stack projects, and open-source contributions**
+- 👯 I’m looking to collaborate on **Machine learning projects, AI based web apps, full stack projects, and open-source contributions**
 
 - 🤝 I’m looking for help with **Deep learning concepts**
 
