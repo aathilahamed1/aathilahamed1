@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aathil Ahamed A</h1>
-<h3 align="center">Aspiring Penetration Tester | AI/ML Aspirant | Full Stack Developer</h3>
+<h3 align="center">Aspiring Penetration Tester | AI/ML Enthusiast | Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Cybersecurity labs and AI mini projects**
 
