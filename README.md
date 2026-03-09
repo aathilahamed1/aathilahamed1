@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aathil Ahamed A</h1>
-<h3 align="center">A passionate AI/ML Aspirant  | Full Stack Developer </h3>
+<h3 align="center">Junior Penetration Tester | AI/ML Aspirant | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **AI mini Projects**
+- 🔭 I’m currently working on **Cybersecurity labs and AI mini projects**
 
-- 🌱 I’m currently learning **Python, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Web Security, Python, Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects, AI based web apps, full stack projects, and open-source contributions**
+- 🛡️ I’m practicing **Penetration Testing, Vulnerability Assessment, and Bug Hunting**
 
-- 🤝 I’m looking for help with **Deep learning concepts**
+- 👯 I’m looking to collaborate on **cybersecurity projects, machine learning projects, AI-based web apps, full stack projects, and open-source contributions**
+
+- 🤝 I’m looking for help with **advanced penetration testing techniques and deep learning concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aathilahamed1](https://github.com/aathilahamed1)
 
-- 💬 Ask me about **AI/ML, Python, model building, and full stack development**
+- 💬 Ask me about **penetration testing, bug bounty, AI/ML, Python, and full stack development**
 
 - 📫 How to reach me **aathilerode@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning ideas into intelligent systems and scalable web applications**
-
+- ⚡ Fun fact **I enjoy discovering security vulnerabilities and turning ideas into intelligent systems and scalable web applications**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
