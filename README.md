@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aathil Ahamed A</h1>
-<h3 align="center">Aspiring Penetration Tester | AI/ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">Aspiring AI Engineer | Penetration Testing Enthusiast | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Cybersecurity labs and AI mini projects**
+- 🔭 I’m currently working on **AI/ML projects and cybersecurity labs**
 
-- 🌱 I’m currently learning **Web Security, Python, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Web Security and Python**
 
-- 🛡️ I’m practicing **Penetration Testing, Vulnerability Assessment, and Bug Hunting**
+- 🛡️ I’m practicing **AI model development, data-driven problem solving, penetration testing, vulnerability assessment, and bug hunting**
 
-- 👯 I’m looking to collaborate on **cybersecurity projects, machine learning projects, AI-based web apps, full stack projects, and open-source contributions**
+- 👯 I’m looking to collaborate on **machine learning projects, AI-based web apps, cybersecurity projects, full stack projects, and open-source contributions**
 
-- 🤝 I’m looking for help with **advanced penetration testing techniques and deep learning concepts**
+- 🤝 I’m looking for help with **advanced machine learning techniques and deep learning concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aathilahamed1](https://github.com/aathilahamed1)
 
-- 💬 Ask me about **penetration testing, bug bounty, AI/ML, Python, and full stack development**
+- 💬 Ask me about **AI/ML, penetration testing, bug bounty, Python, and full stack development**
 
 - 📫 How to reach me **aathilerode@gmail.com**
 
-- ⚡ Fun fact **I enjoy discovering security vulnerabilities and turning ideas into intelligent systems and scalable web applications**
+- ⚡ Fun fact **I enjoy building intelligent systems, solving real-world problems with AI, and exploring security vulnerabilities**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
